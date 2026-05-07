@@ -15,7 +15,11 @@ Key Findings & Recommendations:
 Recommendation: Keep the websites separate.
 KPI data shows clear improvement across all core engagement metrics following the February 2022 split:
 
-MetricCombined EraGrammy.comRecordingAcademy.comPages per Session1.862.252.78Bounce Rate41.6%40.2%33.7%Avg. Session Duration102.9 sec83.0 sec128.5 sec
+| Metric | Combined Era | Grammy.com | RecordingAcademy.com |
+|---|---|---|---|
+| Pages per Session | 1.86 | 2.25 | 2.78 |
+| Bounce Rate | 41.6% | 40.2% | 33.7% |
+| Avg. Session Duration | 102.9 sec | 83.0 sec | 128.5 sec |
 
 The improvement in pages-per-session between the combined era and post-split sites is statistically significant at the 95% confidence level (two-sample t-test, p ≈ 0), confirming the separation meaningfully improved audience engagement rather than reflecting random variation.
 
