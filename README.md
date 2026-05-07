@@ -1,7 +1,8 @@
 # grammy-audience-analysis
+## Overview
 The Recording Academy, the non-profit organization behind the Grammy Awards, split its combined Grammys + Recording Academy website into two distinct sites: Grammy.com and RecordingAcademy.com, effective February 1, 2022. This project analyzes web analytics data across both sites to evaluate whether the split improved key performance indicators and whether the results are statistically significant.
 
-The key analytical questions I set out to answer were:
+## Analytical Questions
 1. How has Grammy.com traffic trended over time, and when do peaks occur?
 2. What is the impact of Grammy Award ceremonies on site traffic?
 3. How do key KPIs compare across the three website eras?
@@ -11,7 +12,7 @@ The key analytical questions I set out to answer were:
 
 To answer these I worked with raw daily web analytics for Grammy.com from 2017-2023, as well as raw daily web analytics for RecordingAcademy.com from 2022-2023.
 
-Key Findings & Recommendations:
+## Key Findings & Recommendations:
 Recommendation: Keep the websites separate.
 KPI data shows clear improvement across all core engagement metrics following the February 2022 split:
 
